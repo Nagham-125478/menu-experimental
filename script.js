@@ -2,7 +2,7 @@
 // 1. الثوابت والإعدادات الرئيسية
 // ==========================================
 // استبدلي هذا الرابط برابط الـ Apps Script الخاص بملف الشيت تبعك
-const GOOGLE_SHEET_URL = "ضع_رابط_الـ_Google_Apps_Script_هنا";
+const GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/1F9c0Urfl1J5OYr3jAcXdEqFYbZJqkL9-a9zVxBmrDTA/edit?usp=sharing";
 
 const DEFAULT_PRICE = 2.50;
 const DEFAULT_IMAGE = "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500&q=80";
