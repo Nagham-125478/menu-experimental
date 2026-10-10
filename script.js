@@ -2,7 +2,7 @@
 // 1. الثوابت والإعدادات الرئيسية
 // ==========================================
 // استبدلي هذا الرابط برابط الـ Apps Script الخاص بملف الشيت تبعك
-const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbwXr11js81wnTcF7UJ9WeqqZtylf01_0WIihPzf3Sgi23M4iV8pHz5rOM8VRQOdJ9IV/exec";
+const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbyuy_ysXbnnbsAanEyNtccX0iiwKd6FGZIHy9YAC0zvejsvz1Bj_EZ-G3Rn5J9zPxsN/exec";
 
 const DEFAULT_PRICE = 2.50;
 const DEFAULT_IMAGE = "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500&q=80";
